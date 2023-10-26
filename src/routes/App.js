@@ -7,7 +7,6 @@ import { store } from '../states/store';
 
 const DefaultLayout = React.lazy(() => import('../layout/DefaultLayout'));
 const Login = React.lazy(() => import('../views/pages/Login/Login'));
-const Page404 = React.lazy(() => import('../views/pages/page404/Page404'));
 
 const loading = (
   <div className="pt-3 text-center">

@@ -34,7 +34,7 @@ const sidebarnav = [
   {
     component: CNavItem,
     name: 'Historias Clinicas',
-    href: 'https://coreui.io/react/docs/templates/installation/',
+    to: '/HistoriasClinicas',
     icon: <CIcon icon={cilDescription} customClassName="nav-icon" />,
   },
 ]

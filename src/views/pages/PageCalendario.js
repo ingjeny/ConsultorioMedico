@@ -42,4 +42,3 @@ const PartidosCreados= ()=>{
 }
 
 export default PartidosCreados
-
