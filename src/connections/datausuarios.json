@@ -1,0 +1,21 @@
+[
+    {
+      "Nombre": "Brenda ximena rios",
+      "Edad": 19,
+      "Género": "Mujer",
+      "Dirección": "Aeropuerto"
+    },
+    {
+      "Nombre": "Usuario 2",
+      "Edad": 30,
+      "Género": "Hombre",
+      "Dirección": "Avenida XYZ"
+    }, 
+    {
+        "Nombre": "Usuario 2",
+        "Edad": 30,
+        "Género": "Hombre",
+        "Dirección": "Avenida XYZ"
+      }
+  ]
+  
